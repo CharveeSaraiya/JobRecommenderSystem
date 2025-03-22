@@ -1,0 +1,8 @@
+pip install pandas
+pip install streamlit
+pip install rake-nltk
+pip install python-rake
+pip install nltk
+pip install seaborn
+pip install wordcount
+pip install scikit-plot 
